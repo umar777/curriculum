@@ -41,7 +41,8 @@ Sticky elements will act like normal elements until you scroll past them, then t
 1. [This](https://www.youtube.com/watch?v=jx5jmI0UlXU) video is fast-paced but provides a good visual representation of different positioning behaviors. Go ahead and watch it.
 2. [This MDN article](https://developer.mozilla.org/en-US/docs/Web/CSS/position) covers all of the conceptual details about positioning.
 3. [This CSS Tricks](https://css-tricks.com/absolute-relative-fixed-positioining-how-do-they-differ/) page should give you a different insight on the topic. You should read it as well.
-4. Finally, [this article](https://www.kevinpowell.co/article/positition-fixed-vs-sticky/) discusses the difference between fixed and sticky positioning, it's a great read to understand the difference better.
+4. [This](https://www.youtube.com/watch?v=MxEtxo_AaZ4) video which explains CSS positioning in a very visually appealing manner and at the same time applies the concept to a real world project. Go ahead and watch it.
+5. Finally, [this article](https://www.kevinpowell.co/article/positition-fixed-vs-sticky/) discusses the difference between fixed and sticky positioning, it's a great read to understand the difference better.
 </div>
 
 ### Knowledge Check
